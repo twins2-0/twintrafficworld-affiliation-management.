@@ -1,8 +1,9 @@
 @app
-Affiliate-Pyramid-TwinTrafficWorld
+TwinTrafficWorld
 
 @http
 get /foo
+put /bar
 @tables
 data
   scopeID *String
