@@ -1,5 +1,5 @@
 @app
-TwinTrafficWorld
+begin-app
 
 @http
 get /foo
