@@ -3,7 +3,6 @@ Affiliate-Pyramid-TwinTrafficWorld
 
 @http
 get /foo
-put /bar
 @tables
 data
   scopeID *String
